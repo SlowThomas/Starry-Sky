@@ -1,0 +1,49 @@
+# Color definition for Tinkercad Obj File 2015
+
+newmtl body_top
+Ka 0 0 0
+Kd 0.3 0.25 0.55
+d 1
+illum 0
+
+newmtl body_bottom
+Ka 0 0 0
+Kd 0.2 0.15 0.45
+d 1
+illum 0
+
+newmtl wing_top
+Ka 0 0 0
+Kd 0.3 0.25 0.55
+d 1
+illum 0
+
+newmtl wing_bottom
+Ka 0 0 0
+Kd 0.2 0.15 0.45
+d 1
+illum 0
+
+newmtl back_wing
+Ka 0 0 0
+Kd 0.3 0.25 0.4
+d 1
+illum 0
+
+newmtl cockpit
+Ka 0 0 0
+Kd 0 0.6 0.7
+d 1
+illum 0
+
+newmtl cockpit_front
+Ka 0 0 0
+Kd 0 0.65 0.75
+d 1
+illum 0
+
+newmtl inner_glow
+Ka 0 0 0
+Kd 0 0.7 0.9
+d 1
+illum 0

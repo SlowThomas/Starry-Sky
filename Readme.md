@@ -1,0 +1,1 @@
+Idea: https://www.coolmathgames.com/0-retro-space-blaster
