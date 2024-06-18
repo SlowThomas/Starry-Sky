@@ -1,0 +1,8 @@
+/data/records.txt
+
+# Intellij Idea
+/.idea/*
+/out/*
+
+# MacOS
+.DS_Store
