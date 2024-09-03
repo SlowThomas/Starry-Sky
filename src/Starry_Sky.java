@@ -18,6 +18,8 @@ public class Starry_Sky extends JPanel implements Runnable, KeyListener, MouseLi
         public boolean[] survived = new boolean[3];
 
         public Record_Board() throws IOException {
+            File file = new File("data/records.txt");
+            if(!file.exists()) new FileWriter("data/records.txt").close();
             Scanner fin = new Scanner(new File("data/records.txt"));
             for(int i = 0; i < 3; i++){
                 if(!fin.hasNextInt()) {
